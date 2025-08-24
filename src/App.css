@@ -2,9 +2,9 @@ html {
   scroll-behavior: smooth; /* Smooth scrolling */
 }
 
-.hero2-maindiv {
+/* .hero2-maindiv {
   height: 28vh;
   width: 100vw;
   border-right: 100vw solid black;
   border-top: 80px solid transparent;
-}
+} */
