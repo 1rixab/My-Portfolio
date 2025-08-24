@@ -6,7 +6,7 @@ import Hero3 from "./hero3";
 const MainHero = () => {
   return (
     <>
-      <div className="bg-black w-full h-screen flex flex-col items-center">
+      <div className="bg-black w-full h-auto flex flex-col items-center">
         <div className="w-full">
           <Navigation />
         </div>
@@ -17,7 +17,7 @@ const MainHero = () => {
             alt="heroimage"
           />
           <Hero2 className="absolute"></Hero2>
-          <Hero3/>
+          <Hero3 />
         </div>
       </div>
     </>
