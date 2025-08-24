@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth; /* Smooth scrolling */
+}
+
 .hero2-maindiv {
   height: 28vh;
   width: 100vw;
