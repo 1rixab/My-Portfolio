@@ -6,7 +6,7 @@ import Hero3 from "./hero3";
 const MainHero = () => {
   return (
     <>
-      <div className="bg-black w-full h-auto flex flex-col items-center">
+      <div className="bg-black w-full h-[10vh] flex flex-col items-center">
         <div className="w-full">
           <Navigation />
         </div>
